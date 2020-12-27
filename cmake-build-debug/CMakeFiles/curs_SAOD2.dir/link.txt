@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/curs_SAOD2.dir/main.cpp.o  -o curs_SAOD2.exe -Wl,--out-implib,libcurs_SAOD2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

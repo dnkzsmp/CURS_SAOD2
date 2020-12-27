@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Danil/Desktop/lab-saod2/curs_SAOD2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Danil/Desktop/lab-saod2/curs_SAOD2/cmake-build-debug/CMakeFiles/curs_SAOD2.dir
+/cygdrive/c/Users/Danil/Desktop/lab-saod2/curs_SAOD2/cmake-build-debug/CMakeFiles/edit_cache.dir
